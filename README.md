@@ -549,12 +549,6 @@ This project follows security best practices:
 
 ---
 
-## 👤 Author
-
-**Harsh Gupta** — [@cazy8](https://github.com/cazy8) · [LinkedIn](https://www.linkedin.com/in/h4rshg/)
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
